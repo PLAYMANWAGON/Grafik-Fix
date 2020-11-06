@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "IuhHghtDeOVI13AeuoG3rbICizotCIp3mCpS0Ml/ueUnjIJCfKAoRAJ2nUxWOJg+x/qQP80KV35OgQq8WKNTlw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\aironas.keturka\\Documents\\Mokykliniai Sudai\\Gaming\\Grafik-Fix\\dolf\\dolf.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\aironas.keturka\\.nuget\\packages\\raylib-cs\\3.1.5\\raylib-cs.3.1.5.nupkg.sha512",
+    "C:\\Users\\aironas.keturka\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
